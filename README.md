@@ -1,5 +1,7 @@
 # Detecting the Higgs Boson with TPUs
+<img width="197" height="256" alt="image" src="https://github.com/user-attachments/assets/18085538-46e6-422e-acf6-12eeb754c962" />
 
+The Higgs boson is the fundamental particle associated with the Higgs field, which is responsible for giving other fundamental particles like quarks and electrons their mass. Its discovery in 2012 at the Large Hadron Collider (LHC) by CERN researchers confirmed the existence of the Higgs field and completed the Standard Model of particle physics
 This project demonstrates an improved approach to classifying Higgs boson events using a modern Wide & Deep neural network. It leverages modern Keras practices, feature normalization, and enhanced training stability for high-performance classification on the Higgs Boson dataset.
 
 The model is designed to run efficiently on Google's Tensor Processing Units (TPUs) but also supports GPU and CPU execution.
